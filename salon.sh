@@ -2,8 +2,6 @@
 
 PSQL="psql --username=freecodecamp --dbname=salon --tuples-only -c"
 
-echo -e "\nWelcome to Dipintoo Salon! What service would you like to book?\n"
-
 display_services_menu() {
   $PSQL "SELECT service_id, name FROM services ORDER BY service_id" | while read SERVICE_ID _ SERVICE_NAME; do
     echo -e "$SERVICE_ID) $SERVICE_NAME"
@@ -34,7 +32,10 @@ display_confirmation() {
   echo -e "\nI have put you down for a $SERVICE_NAME_SELECTED at $SERVICE_TIME, $CUSTOMER_NAME."
 }
 
+
 # Script Utama
+
+echo -e "\nWelcome to Dipintoo Salon! What service would you like to book?\n"
 display_services_menu
 read -p "Input number to book: " SERVICE_ID_SELECTED
 
