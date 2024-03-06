@@ -1,5 +1,7 @@
 ![Cover]()
 
+https://github.com/dipintoo/salon_database/blob/main/img/Database%20Design.png
+
 ## Goals
 
 Membuat aplikasi janji temu salon yang mampu mengenali customer lama dan customer baru berdasarkan nomor telepon. Customer bisa memilih layanan salon yang diinginkan lalu membuat janji temu pada jam tertentu. Setelah berhasil membuat janji, aplikasi akan memberikan konfirmasi pemesanan.
@@ -9,6 +11,8 @@ Membuat aplikasi janji temu salon yang mampu mengenali customer lama dan custome
 ### Database
 
 Membuat database [salon](https://github.com/dipintoo/salon_database/blob/main/simple_salon.sql) yang terdiri dari tabel `customers`, `services`, dan `appointments`.
+
+![Database design](https://github.com/dipintoo/salon_database/blob/main/img/Database%20Design.png)
 
 ### Algoritma Bash Script
 
