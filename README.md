@@ -1,6 +1,4 @@
-![Cover]()
-
-https://github.com/dipintoo/salon_database/blob/main/img/Database%20Design.png
+![Cover](https://github.com/dipintoo/salon_database/blob/main/img/Cover_3.jpg)
 
 ## Goals
 
