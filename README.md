@@ -27,5 +27,9 @@ Membuat database [salon](https://github.com/dipintoo/salon_database/blob/main/si
 6. Customer membuat janji temu dengan menginput jam tertentu
 7. Menampilkan pesan konfirmasi berisi nama customer, layanan salon yang dipilih, dan jam temu.
 
+## Sumber
+
+freeCodeCamp. (2024). Relational Database. Diakses dari https://www.freecodecamp.org/learn/relational-database/build-a-salon-appointment-scheduler-project/build-a-salon-appointment-scheduler
+
 
 [**_Next Project - Database Tabel Periodik Unsur >>_**](https://github.com/dipintoo/periodic-table_database)
