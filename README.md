@@ -12,7 +12,7 @@ Membuat database [salon](https://github.com/dipintoo/salon_database/blob/main/si
 
 ![Database design](https://github.com/dipintoo/salon_database/blob/main/img/Database%20Design.png)
 
-### Algoritma Bash Script
+### [Algoritma Bash Script](https://github.com/dipintoo/salon_database/blob/main/salon.sh)
 
 1. Menampilkan menu layanan salon yang tersedia dari dalam database
 2. Meminta customer untuk menginput nomor urut dari layanan salon yang tersedia
